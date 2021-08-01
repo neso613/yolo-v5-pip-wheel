@@ -2,7 +2,7 @@
 YOLOv5 model in TensorFlow Lite (TFLite) for Object Detection over 1000 classes(coco dataset).
 
 ## Installation
-- pip3 install yolo-v5-tflite
+- pip3 install yolo-v5-tflite [link](https://pypi.org/project/yolo-v5-tflite/1.0/)
 
 ## How To Run
 ```
