@@ -1,6 +1,6 @@
 # yolo-v5-pip-wheel
-YOLOv5 model in TensorFlow Lite (TFLite) for Object Detection over 1000 classes(coco dataset).
-Note: Images are only supported now. 
+YOLOv5 model in TensorFlow Lite (TFLite) for Object Detection over 1000 classes(coco dataset).\
+Note: Images as input are only supported now. 
 
 ## Installation
 - pip3 install yolo-v5-tflite [link](https://pypi.org/project/yolo-v5-tflite/1.0/)
